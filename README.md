@@ -29,9 +29,9 @@
 <h1 align=center><b>🏆 ACHIEVEMENTS 🏆<b></h1>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-Dathan&layout=compact" width="48%" height="230px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-Dathan&layout=compact" width="45%" height="230px">
   &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Deva-Dathan&show_icons=true" width="48%" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=Deva-Dathan&show_icons=true" width="45%" height="200px">
 </p>
 
   <h3 align=left><b>PROGRAMMING LANGUAGES</b></h3>
