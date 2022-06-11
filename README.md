@@ -31,13 +31,11 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deva-Dathan&layout=compact" width="45%" height="230px">
   &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Deva-Dathan&show_icons=true" width="45%" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=Deva-Dathan&show_icons=true" width="45%" height="230px">
 <img src="https://activity-graph.herokuapp.com/graph?username=Deva-Dathan&theme=minimal" width="100%" height="300px>
 </p>
 
-  <br><br><br><br><br><br><br><br>
-
-  
+  <br><br>
   <h3 align=left><b>PROGRAMMING LANGUAGES</b></h3>
   
   <p>
