@@ -34,7 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Deva-Dathan&show_icons=true" width="45%" height="230px">
 </p>
 
-  <br><br>
   <h3 align=left><b>PROGRAMMING LANGUAGES</b></h3>
   
   <p>
