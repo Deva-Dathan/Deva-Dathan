@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCTenZ0PVTBdbV1WUrfsUhaA?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCTenZ0PVTBdbV1WUrfsUhaA?sub_confirmation=1notnow">
     <img alt="Subscribers Youtube" title="Subscribe My YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCTenZ0PVTBdbV1WUrfsUhaA?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"></a> 
   
   <a href="https://www.facebook.com/iamdeva3/">
