@@ -96,6 +96,8 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+    
 </p>
     <hr>
    <h3 align=left>OPERATING SYSTEM</h3>
